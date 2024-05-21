@@ -1,0 +1,23 @@
+-Primitive Data Types
+
+-String
+	-Datascripts - print("Hello"[2]) == l
+
+-Integer
+
+-Large Integer
+	- Large integers can use _ for readability eg- 123_465789.56
+
+-float
+-boolean
+
+-Type check
+
+-typecast
+	- int("123.5") - error
+
+-round
+
+-f string
+
+-string formatting
